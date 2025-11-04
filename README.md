@@ -32,7 +32,7 @@ team begins the significant coding tasks for your project.
 
 ## Requirements
 As with the NumberTriangle assignment, you need to continue to demonstrate use of Issues and PRs.
-- [ ] your repo must contain at least one closed issue, one closed PR, and two commits                <----------------------------------------- 3
+- [ ] your repo must contain at least one closed issue, one closed PR, and two commits                <----------------------------------------- 
 - [ ] all provided tests must pass
 
 ---
@@ -90,7 +90,7 @@ Note: The example in the documentation doesn't show it, but if you specify a bre
 
 ### Task 4:
 
-- [ ] Originally, the `BreedFetcher.BreedNotFoundException` exception was designed as a subclass of `RuntimeException`.
+- [x] Originally, the `BreedFetcher.BreedNotFoundException` exception was designed as a subclass of `RuntimeException`.
   Update the code so that this exception is a **checked exception** and modify any other code as needed so that the code
   is able to compile and run.
 
