@@ -32,7 +32,7 @@ team begins the significant coding tasks for your project.
 
 ## Requirements
 As with the NumberTriangle assignment, you need to continue to demonstrate use of Issues and PRs.
-- [ ] your repo must contain at least one closed issue, one closed PR, and two commits
+- [ ] your repo must contain at least one closed issue, one closed PR, and two commits                <----------------------------------------- 3
 - [ ] all provided tests must pass
 
 ---
@@ -86,7 +86,7 @@ Note: The example in the documentation doesn't show it, but if you specify a bre
 
 ### Task 3:
 
-- [ ] Complete the `Main` class.
+- [x] Complete the `Main` class.
 
 ### Task 4:
 
